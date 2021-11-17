@@ -21,10 +21,3 @@ Right click the Application.java and select Run -> Application.main()
 ## Testing the application
 Download and install postman <https://www.getpostman.com/downloads/>
 The test scripts are under the project root directory in the postman folder
-
-## Database - h2
-By default, Spring Boot will configure an H2 database for us
-H2 is a  database to develop against because it has an Oracle compatibility mode
-The application.properties initializes the datasource, data and schema
-The h2 console can be accessed at the following location http://127.0.0.1:8080/h2-console
-To sign onto the console the credentials are in the following directory /src/main/resources/application.properties  
