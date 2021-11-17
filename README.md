@@ -2,13 +2,13 @@
 Sample Spring Boot Rest API with Hibernate and Junit 5
 
 ## Workspace setup
-Download and install java <https://jdk.java.net/>
+1) Download and install java <https://jdk.java.net/>
 
-Setting JAVA_HOME  <https://docs.oracle.com/cd/E19182-01/821-0917/inst_jdk_javahome_t/index.html>
+2) Setting JAVA_HOME  <https://docs.oracle.com/cd/E19182-01/821-0917/inst_jdk_javahome_t/index.html>
 
-Download IntelliJ IDEA: <https://www.jetbrains.com/idea/download/#section=windows>
+3) Download IntelliJ IDEA: <https://www.jetbrains.com/idea/download/#section=windows>
 
-Download and Install Gradle <https://docs.gradle.org/current/userguide/installation.html>
+4) Download and Install Gradle <https://docs.gradle.org/current/userguide/installation.html>
 
 ## Running the application
 Clone or download the project
