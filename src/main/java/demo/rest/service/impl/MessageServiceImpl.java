@@ -11,12 +11,7 @@ public class MessageServiceImpl implements MessageService {
 
     @Override
     public String createMessage(Message message) {
-        return null;
-    }
-
-    @PostMapping("/hello")
-    public String hello(@RequestBody Message message) {
         return String.format("Hello %s!", message.getText());
-
     }
+
 }
