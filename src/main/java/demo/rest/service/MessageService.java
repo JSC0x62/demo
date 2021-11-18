@@ -2,7 +2,7 @@ package demo.rest.service;
 
 import demo.rest.domain.Message;
 
-public interface Service {
+public interface MessageService {
 
     String createMessage(Message message);
 
