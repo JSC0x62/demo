@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "aa95a129-9442-4e29-8e80-65487ceb5521",
+		"name": "spring-boot-rest-collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Hello World (get)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Hello World (post)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
