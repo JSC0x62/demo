@@ -19,7 +19,7 @@ public class HelloWorldController {
 
     @PostMapping("/hello")
     public String hello(@RequestBody Message message) {
-        return String.format("Hello %s!", message.getText());
+        return messageService.createMessage(message);
 
     }
 
