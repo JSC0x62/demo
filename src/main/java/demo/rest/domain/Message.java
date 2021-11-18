@@ -15,9 +15,4 @@ public class Message {
         this.text = text;
     }
 
-    @PostMapping("/hello")
-    public String hello(@RequestBody Message message) {
-        return String.format("Hello %s!", message.getText());
-    }
-
 }
